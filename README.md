@@ -15,18 +15,4 @@ This project was for Scrimba's Front-End Developer Career Path where I build a g
 ## Preview
 <img src="https://github.com/thejoshyee/tenzies/blob/main/tenzies-preview.png" width="50%"/>
 
-Quick start:
-
-```
-$ npm install
-$ npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ npm run watch
-```
 
